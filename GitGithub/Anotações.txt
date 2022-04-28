@@ -1,0 +1,7 @@
+Os comandos básicos são
+
+git init - inicia o repositório local
+git add * - adiciona todas as alterações no repositório local
+git commit -m - deixa o commit disponível para enviar para o repositório remoto
+
+git push origin main - empurra as tree's para o repositório remoto
